@@ -22,5 +22,8 @@ The RFID Book Management System is a Python-based project designed for efficient
 4.The user provides the book information (name, author, genre).
 5.The system saves the information to a new text file named after the RFID tag's ID.
 6.Steps 1-5 repeat until terminated by the user (KeyboardInterrupt).
+## Version
+### 5/24 v 1.0
+Currently reading RFID then searching the book in Google. Trying to setup where directs the link to an email push with the history tracking of the books you have scanned. 
 ## Conclusion
 The RFID Book Management System provides a user-friendly and efficient solution for managing library book inventories using RFID technology. By leveraging the Raspberry Pi and RFID reader module, it streamlines the process of accessing and updating book information, enhancing the overall library management experience.
